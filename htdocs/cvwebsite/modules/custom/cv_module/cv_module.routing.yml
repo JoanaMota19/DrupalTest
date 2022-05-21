@@ -1,0 +1,7 @@
+cv_module.listing:
+path: '/pesquisa-cvs'
+defaults:
+_controller: 'Drupal\cv_module\Controller\CVController::listing'
+_title: 'My first form'
+requirements:
+_permission: 'access content'
